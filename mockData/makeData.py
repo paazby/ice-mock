@@ -20,7 +20,7 @@ def makeUser(name, names):
     randomMatch = random.randint(0, len(names)-1)
     user['matches'].append(names[randomMatch])
 
-  return json.dumps(user)
+  return user
 
 def createData():
   data = {'results': []}

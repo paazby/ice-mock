@@ -1,14 +1,14 @@
 {"results": [
         {
           "id": 0,
-          "pic": 'http://www.50shadesofage.com/wp-content/uploads/2013/02/George-Clooney-headshot.jpg'
+          "pic": "http://www.50shadesofage.com/wp-content/uploads/2013/02/George-Clooney-headshot.jpg"
         },
         {
           "id": 1,
-          "pic": 'http://yourgrantauthority.com/wp-content/uploads/2012/09/George_Clooney-0508.jpg'
+          "pic": "http://yourgrantauthority.com/wp-content/uploads/2012/09/George_Clooney-0508.jpg"
         },
         {
           "id": 2,
-          "pic": 'http://postgradproblems.s3.amazonaws.com/wp-content/uploads/2014/01/aa19ac627923e9f171a6e379af4c6c36.jpg'
+          "pic": "http://postgradproblems.s3.amazonaws.com/wp-content/uploads/2014/01/aa19ac627923e9f171a6e379af4c6c36.jpg"
         }
       ]}

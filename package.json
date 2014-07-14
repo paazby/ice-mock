@@ -1,0 +1,15 @@
+{
+  "name": "ice-mock",
+  "version": "0.0.0",
+  "description": "Mock server for icebreaker project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anthony Zavadil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^3.4.8"
+  }
+}

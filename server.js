@@ -30,6 +30,11 @@ app.get('/matches',  function(req,res){
   res.status(200).sendfile(__dirname + '/mockData/test.txt');
 });
 
+app.get('/potentialEvents',  function(req,res){
+  console.log('triggered');
+  res.status(200).sendfile(__dirname + '/mockData/potentialEvents.txt');
+});
+
 
 app.get('/events', function(req, res){
   res.status(200).sendfile(__dirname + '/mockData/test.txt');

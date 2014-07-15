@@ -20,4 +20,5 @@
           "pic": "http://tbscene.com/wp-content/uploads/2014/04/super-bar-milano-2013.jpg",
           "description": "performance by adsfsdfljlkj"
         }
-      ];
+      ]
+  }
